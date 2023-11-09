@@ -1,0 +1,7 @@
+.news{
+    list-style-type:none !important;
+}
+
+.news li{
+  margin: 0 0 10px 0;
+}
